@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 game 'gta5'
 
-author 'hivy'
+author 'Canato'
 description 'Job de Entregador'
 version '1.0.0'
 
