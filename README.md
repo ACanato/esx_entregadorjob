@@ -23,6 +23,7 @@ Este script introduz um sistema de trabalho de entregador totalmente funcional p
 
 ## 🛠️ Requisitos
 - **ESX Framework**
+- es_extended 1.1
 - Base de dados MySQL
 
 ---
